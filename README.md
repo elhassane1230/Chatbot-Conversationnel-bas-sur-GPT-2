@@ -1,0 +1,1 @@
+Dans le cadre d'un projet académique supervisé par le professeur X dans le module de fouille de données, notre équipe composée de trois étudiants, A, B et C, a eu l'opportunité de concevoir et de développer un chatbot médical conversionnel basé sur le GPT-2. 
